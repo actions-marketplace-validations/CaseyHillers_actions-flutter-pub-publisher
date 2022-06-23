@@ -1,5 +1,5 @@
 # action.yml
-name: 'Publish Dart/Flutter package'
+name: 'Publish Dart and Flutter packages'
 description: 'Publish Dart/Flutter package'
 inputs:
   credential:
